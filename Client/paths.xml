@@ -1,0 +1,4 @@
+<!-- -------------------------------------------------------------- -->
+<option name="spriteErrorFile" value="Data/Graphics/GFX/Images/error.xml"/>
+<option name="itemIcons" value="Data/Graphics/Items/"/>
+<option name="unknownItemFile" value="Data/Graphics/Images/unknown.png"/>
